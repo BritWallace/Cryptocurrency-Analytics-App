@@ -1,12 +1,9 @@
-# _{Application name here}_
+# _Cryptocurrency-Analytics-App_
 
-#### By _**{List of contributors}**_
+#### By _Brit Wallace_
 
-#### _{Brief description of application}_
+#### _This app will show the price for currencies and make exchanges based on exchange rates._
 
-## Github Pages Link
-
-[TITLE HERE Github Pages](https://patrick-dolan.github.io/APPLICATIONNAMEHERE/)
 
 ## Technologies Used
 
@@ -41,6 +38,6 @@ _[Author Email Here]_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Feel free to reach out with any questions, comments, or concerns. Email me  at britwallace888@gmail.com_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _January/12/2022_ _Brit Wallace_
