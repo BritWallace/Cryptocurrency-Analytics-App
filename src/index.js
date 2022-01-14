@@ -10,9 +10,10 @@ function clearFields() {
 
 function getElements(response, dollars) {
   if (response) {
-    $('.showRate').text(`The exchange rate is ${response[25].rate * dollars}`);
-    $('.showCurrency').text(`The currency ${response[25].currency}`);
+    response.forEach(function(index) {
+    $('.showRate').append(`You have ${(index.rate * dollars).toFixed(2)} in ${index.currency}` + (" <br>"));
     console.log(response);
+    });
   } else {
     $('.showErrors').text(`There was an error: ${response.message}`);
   }
